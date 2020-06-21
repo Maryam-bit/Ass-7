@@ -443,11 +443,7 @@ document.write("<h1 style='font-size:50px;color:green; text-align:center;margin-
 */
 
 
-/*
-var weight = prompt("Enter weight:");
-let w = weight.match(/[0-9 .]* /);
-document.write('THe weight of user is ', w[0], ' kilograms');
-*/
+
 //  <____________________________>
 
 
